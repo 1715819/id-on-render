@@ -1,7 +1,1 @@
-FROM xhofe/alist:v2.6.1
-LABEL MAINTAINER="i@nn.ci"
-WORKDIR /opt/alist/
-
-EXPOSE 5244
-
-ENTRYPOINT [ "./alist", "-docker" ]
+FROM xyouxiu6/idbot
