@@ -1,1 +1,1 @@
-FROM xyouxiu6/idbot
+FROM xyouxiu6/idbot:v1
